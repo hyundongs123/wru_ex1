@@ -15,6 +15,8 @@ public class TestController {
     public void login(){
         String a = "되냐 ";
         System.out.println(a);
+        System.out.println(a);
+        System.out.println(a);
     }
 }
 
